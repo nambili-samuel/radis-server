@@ -1,6 +1,6 @@
 # radis-server 🔴
 
-# Building Real-Time Python Applications with Redis
+[![radis-server thumbnail](./thumbnail.png)](https://github.com/nambili-samuel/radis-server/commit/ecc8f5746e0200a267e3fad8e52f41c93d36dbfd)
 
 If you're developing data-driven applications that demand speed, real-time responsiveness, and scalability, [Redis](https://redis.io/) is an essential tool to have in your stack. Redis is an open-source, in-memory data structure store known for its blazing-fast performance and rich set of features. Whether you're a developer building APIs or a data scientist working on streaming analytics, Redis provides the backbone for modern, low-latency systems.
 
