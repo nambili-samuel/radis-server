@@ -1,6 +1,7 @@
 # radis-server 🔴
 
-[![radis-server thumbnail](./thumbnail.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3KvfmIBu8C7D5gkX65h4r4GWMpBPKBKtxSdG7iPgnShEty1d6imRk5mgEF4Z8c3Nydt4GeW_wKd5xN5RZDeh8Kg0qzkO4ei1676Hvk6aFdLtw8pWc-df3l1919VrfOI0CwoGK7IInSvNJ7wiFs1UWpJBgfRFdq1O9KGsIhPE_kKBZGlUgLvTL5NeOEGKf/s16000/radis.JPG)
+[![radis-server thumbnail](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3KvfmIBu8C7D5gkX65h4r4GWMpBPKBKtxSdG7iPgnShEty1d6imRk5mgEF4Z8c3Nydt4GeW_wKd5xN5RZDeh8Kg0qzkO4ei1676Hvk6aFdLtw8pWc-df3l1919VrfOI0CwoGK7IInSvNJ7wiFs1UWpJBgfRFdq1O9KGsIhPE_kKBZGlUgLvTL5NeOEGKf/s16000/radis.JPG)](https://github.com/nambili-samuel/radis-server/commit/ecc8f5746e0200a267e3fad8e52f41c93d36dbfd)
+
 
 If you're developing data-driven applications that demand speed, real-time responsiveness, and scalability, [Redis](https://redis.io/) is an essential tool to have in your stack. Redis is an open-source, in-memory data structure store known for its blazing-fast performance and rich set of features. Whether you're a developer building APIs or a data scientist working on streaming analytics, Redis provides the backbone for modern, low-latency systems.
 
